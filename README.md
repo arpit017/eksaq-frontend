@@ -1,7 +1,9 @@
 
 This project is an example of a Node.js server that allows users to upload audio files.
 
-Here is the link of backend repo - 
+Here is the link of backend repo - https://github.com/arpit017/eksaq-backend
+
+You can got the deployed link and start recording your audio. it will be automatically uploaded on cloud and saved. You can also see previous recordings.
 
 
 
